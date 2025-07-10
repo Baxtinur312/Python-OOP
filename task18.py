@@ -1,5 +1,5 @@
 def task18():
-    print("\n--- Task 18 ---")
+
     pr1 = Product("TV", 500, "electronics", True)
     pr2 = Product("Phone", 800, "electronics", True)
     pr3 = Product("Laptop", 1200, "computer", True)
